@@ -1,10 +1,10 @@
-package br.com.spolador.desafiomodelodominioorm;
+package br.com.spolador.desafio03;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Desafio02ModeloDominioOrmApplicationTests {
+class Desafio03ApplicationTests {
 
 	@Test
 	void contextLoads() {
