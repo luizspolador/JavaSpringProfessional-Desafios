@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94bd907d-8ae5-4457-92f8-cef28fa92769" name="Changes" comment="" />
+    <list default="true" id="e03f0488-b24e-4b7e-bb25-fe75e325d662" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,9 +17,6 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,9 +25,10 @@
     </option>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 1
 }]]></component>
-  <component name="ProjectId" id="2YUGRHmKzVViSIBPojLr2Xluzvf" />
+  <component name="ProjectId" id="2YUSHfeJCHeaDGZypVv21f5xh9A" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,8 +37,6 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/NelioAlves/JavaSpringProfessional/Modulo4 - JPA, consultas SQL e JPQL/projeto-modulo4/aula-salvar-para-um",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -49,11 +45,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94bd907d-8ae5-4457-92f8-cef28fa92769" name="Changes" comment="" />
-      <created>1700572746508</created>
+      <changelist id="e03f0488-b24e-4b7e-bb25-fe75e325d662" name="Changes" comment="" />
+      <created>1700578580749</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700572746508</updated>
+      <updated>1700578580749</updated>
     </task>
     <servers />
   </component>
